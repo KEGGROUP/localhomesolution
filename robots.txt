@@ -1,0 +1,7 @@
+# robots.txt for localhomesolution.com
+# Allow all search engines to crawl everything
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://localhomesolution.com/sitemap.xml
